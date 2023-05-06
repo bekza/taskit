@@ -1,0 +1,10 @@
+.primary-color {
+  color: #D1D5DA;
+}
+
+.list-group-item {
+  background: transparent;
+}
+.edit-input-field {
+  width: 70%;
+}
