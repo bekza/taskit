@@ -2,9 +2,24 @@
   color: #D1D5DA;
 }
 
+.background-color {
+  background-color: #1c2333;
+}
+
 .list-group-item {
-  background: transparent;
+  padding-right: 5px;
+  padding-left: 10px;
+  background: #1116209c;
+  border: none;
+  margin-bottom: 5px;
 }
 .edit-input-field {
-  width: 70%;
+  width: 80%;
+  padding: 0;
+  background: transparent;
+  color: rgba(255, 255, 0, 0.617);
+  border: none;
+}
+.edit-input-field:focus {
+  outline: none;
 }
